@@ -34,4 +34,4 @@ Based on the executive dashboard, the cooperative exhibits strong financial heal
 
 ### 🖼️ Executive Dashboard
 
-![Dashboard Preview](../dashboard/dashboard.png)
+![Dashboard Preview](dashboard/dashboard.png)
